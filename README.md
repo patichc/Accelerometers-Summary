@@ -22,7 +22,7 @@ For details on the assignment please refer to the ![Assignment.md](Assignment.md
 <hr>
 ### Quick tips on reproducing the file (from download until summary file generation)
 
-Before I start explaining my approach I want to give you some details that can become relevant if you try to reproduce the results:
+Before I start explaining my approach I want to give you some details that can become relevant if you want to reproduce the results:
 
 * <b>Environment</b>:                                  
      * platform       x86_64-w64-mingw32          
