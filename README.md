@@ -16,7 +16,7 @@ For details on the assignment please refer to the ![Assignment.md](Assignment.md
 * ![README.md](README.md) 
 * ![CodeBook.md](CodeBook.md) 
 * ![R code, solution of the assignment](Scripts/downloadAndRead.R) 
-* ![Test file with results](Results/ASGS Tidy Summary)
+* ![Test file with results](Results/ASGS%20Tidy%20Summary.txt)
 
 
 <hr>
@@ -74,4 +74,4 @@ In this step, a <b>Downloads</b> directory is created, the zip file pointed by t
 In this step, a <b>Results</b> directory is created and the resulting data frame is written in a file called <b>ASGS Tidy Summary.txt</b>
 
 <hr>
-### The Approach
+Thank you for taking the time to review this assignment!
